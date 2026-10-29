@@ -25,7 +25,7 @@ website:
   navbar:
     left: # left side of navbar
       - href: index.qmd               # index/home page
-        text: "My Name or Site Title" # home page title (instead of title:)
+        text: "Natalia Mathias" # home page title (instead of title:)
       
       - href: now.qmd               # my now page
         text: Now                   # now page title
@@ -51,13 +51,13 @@ website:
 
     right: # right side of navbar 
       - icon: github
-        href: https://mygithub.com/
+        href: https://github.com/natalia-mathias
       - icon: linkedin
-        href: https://www.linkedin.com/school/claremont-mckenna-college/posts/?feedView=all
-      - icon: twitter-x
-        href: https://x.com/CMCnews
-      - icon: bluesky
-        href: https://bsky.app/profile/cmc.edu
+        href: https://www.linkedin.com/in/nataliamathias/
+ #icon: twitter-x
+ #       href: https://x.com/CMCnews
+  #    - icon: bluesky
+ #       href: https://bsky.app/profile/cmc.edu
 #      - icon: rss
 #        href: blog.xml
         

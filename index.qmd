@@ -1,5 +1,5 @@
 ---
-title: "My Name"       # the title of the index page
+title: "Natalia Mathias"       # the title of the index page
 about:
   # template types
   #template: jolla
@@ -13,22 +13,30 @@ about:
   links:
     # add others
     - icon: linkedin
-      href: https://www.linkedin.com/school/claremont-mckenna-college/posts/?feedView=all
-    - icon: twitter-x
-      href: https://x.com/CMCnews
+      href: https://www.linkedin.com/in/nataliamathias/
+    - icon: github
+      href: https://github.com/natalia-mathias
 
 ---
 
-I am a ... blah blah
+I'm a senior at Claremont McKenna College studying Economics and Data Science while pursuing my Master of Arts in Finance. I'm drawn to work that connects structured financial thinking with analytical problem-solving. I'm particularly interested in the intersection of finance, data analysis, and technology, where rigorous analysis drives meaningful outcomes.
+
+
+[Resume](files/resume.pdf)
 
 ## Education
 
-Institution | City, State
-B.A in Degree | start - finish
+Claremont McKenna College | Claremont, CA
+
+MA in Finance, BA in Economics, Minor in Data Science | 2023 - 2027
 
 ## Experience
 
-Organization A | Title | start - finish
+EPAM Systems | FP&A Junior Analyst | Jun 2026 - Aug 2026
 
-Organization b | Title | start - finish
+Kite Realty Group | Insurance and Risk Management Intern | Jun 2025 - Aug 2025
+
+Graphite Group | Senior Advisor, Consultant | Sep 2024 - Present
+
+Lowe Institute of Political Economy | Data Journalist, Social Media Coordinator | Sep 2024 - May 2026
 
